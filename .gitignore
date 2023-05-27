@@ -1,0 +1,5 @@
+.idea
+app/__pycache__/
+app/.pytest_cache/
+.env
+app/.env
